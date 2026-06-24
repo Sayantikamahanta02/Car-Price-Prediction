@@ -19,11 +19,12 @@ The model is trained on historical car sales data and can estimate the market va
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
-- Matplotlib
+
 
 ## Dataset
 
 car data.csv
 
+##Author
+Sayantika Mahanta
